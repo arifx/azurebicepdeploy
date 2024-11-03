@@ -8,3 +8,6 @@ Sample applications are available for the other frameworks here:
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+
+
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/create-an-azure-openai-langchain-chromadb-and-chainlit-chat-app/ba-p/3885602
